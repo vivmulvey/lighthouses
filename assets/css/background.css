@@ -1,3 +1,12 @@
+/**
+ * @Author: viviennemulvey
+ * @Date:   2020-09-19T20:16:32+01:00
+ * @Last modified by:   viviennemulvey
+ * @Last modified time: 2020-09-25T15:26:59+01:00
+ */
+
+
+
 .box {
   border-radius: 5px;
   padding: 10px;
@@ -25,13 +34,13 @@
 }
 
 .sidebar {
-  background-color: #ccc;
+  background-color: #fff;
 }
 
 .sidebar2 {
-  background-color: #ccc;
+  background-color: #fff;
 }
 
 .footer {
-  background-color: #999;
+  background-color: #ccc;
 }
